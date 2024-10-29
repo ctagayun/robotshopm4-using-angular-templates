@@ -52,7 +52,9 @@ Module 4: Using Angular Templates
   https://app.pluralsight.com/ilx/video-courses/d5d30ea4-0af1-447a-b13a-e60a095337a6/ef40a419-5e9b-4cb9-ae32-ff87bec498ed/66552927-a376-46cc-a341-c5c771eaf1b2
 
   - interpolation -
+
   - Binding to Component Data with Interpolation.
+     https://app.pluralsight.com/ilx/video-courses/d5d30ea4-0af1-447a-b13a-e60a095337a6/4623aa46-bc16-4394-b680-a6c9ce70f48e/313c1a06-4ff0-4287-819d-c8b4124ac265
      - let's use the CatalogComponent to demo
 
      - the catalog html has a single list where a product should be displayed
@@ -64,10 +66,12 @@ Module 4: Using Angular Templates
 
      - add code to CatalogComponent.html using interpolation
 
-     - npm start (the CatalogHtml should display "Large Cyclops")
+     - now teat it: npm start (the CatalogComponent.Html should display "Large Cyclops")
+
+  - Using Attribute Binding
 
 
-
+  
 Module 5: Styling Angular Components
 
 Module 6: Communicating Between Angular Components
