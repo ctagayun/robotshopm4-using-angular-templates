@@ -47,6 +47,36 @@ Module 3: Creating Components
            onDestroy - occurs only once. used to cleanup
 
    - ng generate component catalog
+
+Module 4: Using Angular Templates
+  https://app.pluralsight.com/ilx/video-courses/d5d30ea4-0af1-447a-b13a-e60a095337a6/ef40a419-5e9b-4cb9-ae32-ff87bec498ed/66552927-a376-46cc-a341-c5c771eaf1b2
+
+  - interpolation -
+  - let's build our catalog page
+     -  the catalog html has a single list where a product should be displayed
+        Let's wire this up to list item to show a single product
+
+     - create productmodel.ts interface in src/app/catalog
+
+     - add code to CatalogComponent.ts
+
+     
+Module 5: Styling Angular Components
+
+Module 6: Communicating Between Angular Components
+
+Module 7: Creating Angular Services
+
+Module 8: Making HTTP Requests with angular
+
+Module 9: Routing and Navigating with Angular
+
+Module10: Creating Angular Forms
+
+Module11: Organizing Angular Applications with Modules
+
+Module12: Testing Angular Applications
+
 ===================================
 Useful Links
 ==================================
