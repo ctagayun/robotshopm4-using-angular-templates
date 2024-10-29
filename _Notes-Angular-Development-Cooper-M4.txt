@@ -64,14 +64,15 @@ Module 4: Using Angular Templates
 
      - add code to CatalogComponent.ts
 
-     - add code to CatalogComponent.html using interpolation
+     - add code to CatalogComponent.html <div class="product-details">
+       using interpolation
 
      - now teat it: npm start (the CatalogComponent.Html should display "Large Cyclops")
 
   - Using Attribute Binding
 
 
-  
+
 Module 5: Styling Angular Components
 
 Module 6: Communicating Between Angular Components
